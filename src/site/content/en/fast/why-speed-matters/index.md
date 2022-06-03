@@ -47,7 +47,7 @@ and this [increased search engine traffic and sign-ups by 15%](https://medium.co
 COOK reduced average page load time by 850 milliseconds which
 [increased conversions by 7%, decreased bounce rates by 7%, and increased pages per session by 10%](https://www.nccgroup.trust/globalassets/resources/uk/case-studies/web-performance/cook-case-study.pdf).
 
-Studies have also shown the negative impact poor performance can have on business goals.
+Studies have also shown the negative impact poor performance on google search ranking can loss on business goals.
 For example, [the BBC](https://www.creativebloq.com/features/how-the-bbc-builds-websites-that-scale)
 found they lost an additional 10% of users for every additional second their site took to load.
 
@@ -97,7 +97,7 @@ Knowing what we know about human behavior, users will only tolerate low performi
 ## Performance is about people
 
 Poorly performing sites and applications can also pose real costs for the
-people who use them.
+people who use them. 
 
 [As mobile users continue to make up a larger portion of internet users
 worldwide](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet),
